@@ -2,6 +2,7 @@ name: BVS
 favicon: null
 layout_spectrum: 0.3142628716304898
 typography_spectrum: 0.09769007633440197
+title: 'Grafische weergave BVS '
 cta:
   domain: null
   bucket: null
