@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Grafische weergave BVS ]]></title>
         <description><![CDATA[Grafische weergave BVS ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bvs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 07:35:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 07:40:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bvs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BVS+]]></title>
-            <description><![CDATA[<h1>BVS+</h1>]]></description>
-            <link>undefinedbvs/index.html</link>
+            <description><![CDATA[<article><h1>BVS+</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3703cb8-b7e1-449d-a7ad-6062fa8b81bb.png"></article>]]></description>
+            <link>https://thegrid.ai/bvs/bvs/index.html</link>
             <guid isPermaLink="false">d086298a-d273-4832-a7bc-79b306dd6cbc</guid>
-            <pubDate>Tue, 05 Apr 2016 07:35:53 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2016 07:39:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
