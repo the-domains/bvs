@@ -8,7 +8,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: null
+  google: 'https://www.raildocs.nl/bvs/#start'
   facebook: null
   twitter: null
 opengraph:
